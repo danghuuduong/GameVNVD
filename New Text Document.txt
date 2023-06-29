@@ -1,0 +1,7 @@
+1. redux
+2. deploy
+3. git
+4. array js
+5. object js
+6. regux
+7. vit
